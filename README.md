@@ -7,9 +7,7 @@ What does normal daily demand look like for an online marketplace, which days br
 - **Notebook:** [`notebooks/sales_forecast_and_anomalies.ipynb`](notebooks/sales_forecast_and_anomalies.ipynb)
 - **Power BI:** [`powerbi/`](powerbi/) with the dashboard data and a [build guide with every DAX measure](powerbi/POWERBI_GUIDE.md)
 
-<!-- After building the dashboard: add images/dashboard.png and uncomment the line below
 ![Power BI dashboard](images/dashboard.png)
--->
 
 ## Key findings
 
